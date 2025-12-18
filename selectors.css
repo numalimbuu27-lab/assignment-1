@@ -1,0 +1,16 @@
+/* 1. Element selector*/
+input {
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+/* 2. ID selector*/
+#name {
+    border: 2px solid black;
+}
+
+/* 3. Class selector */
+.highlight {
+    color: red;
+    font-weight: bold;
+}
